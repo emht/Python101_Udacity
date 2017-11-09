@@ -10,6 +10,11 @@ How To Run
 2. 
 3.
 
+Requirements
+============
+* webbrowser: To open the webbrowser to play the songs from youtube, change it for spotify app or something in future.
+*
+*
 
 Implementation
 ==============
@@ -25,3 +30,5 @@ repeat three times:
 	* Wait "x" hours.
 	* Open Web Browser
 
+1. Add functionality for every 20 minutes, short breaks.
+2. After every one hour, long breaks of 10 minutes.
