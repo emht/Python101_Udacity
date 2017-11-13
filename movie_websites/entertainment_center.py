@@ -16,4 +16,12 @@ avatar = media.Movie("Avatar",
 #avatar.show_trailer()
 
 movies = [toy_story, avatar]	# Movie() object list to call for webpage rendering
-fresh_tomatoes.open_movies_page(movies)
+
+
+# fresh_tomatoes.open_movies_page(movies)
+
+# print(media.Movie.VALID_RATINGS)
+
+
+# To check the purpose of any class by __doc__, __name__, __module__
+# print(media.Movie.__doc__)
